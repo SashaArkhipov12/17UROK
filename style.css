@@ -1,0 +1,19 @@
+.flex {
+		display: flex;
+	}
+	.films {
+		background-color: red;
+		width: 1480px;
+		height: 700px;
+	}
+	.info {
+		background-color: green;
+		width: 400px;
+		height: 163px;
+	}
+	.info-text {
+		font-size: 17px;
+	}
+	.font-family {
+		font-family: Arial;
+	}
